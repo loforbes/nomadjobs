@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+set -o xtrace
+
+echo "/usr/bin/apptainer $@"
+sleep 15
